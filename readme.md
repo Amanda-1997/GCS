@@ -6,8 +6,6 @@
 - Collaborative Gaussian Squeeze
 - [Google Research Football](https://github.com/google-research/football)
 
-- [StarCraftII (SMAC)](https://github.com/oxwhirl/smac)
-- [Hanabi](https://github.com/deepmind/hanabi-learning-environment)
 
 
 ##  Installation
